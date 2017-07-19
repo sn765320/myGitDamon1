@@ -1,2 +1,3 @@
-hello£¬hadoop
-hello£¬hive
+hello,hadoop
+hello,hive
+hello,hbase
