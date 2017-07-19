@@ -1,1 +1,2 @@
 hello£¬hadoop
+hello£¬hive
